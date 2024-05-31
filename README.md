@@ -35,7 +35,8 @@
 - **Languages**:
     
     
-    ![Java]
+    ![Java](https://img.shields.io/badge/Java-yellow)
+
 
 <br>   
     
