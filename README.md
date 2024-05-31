@@ -147,6 +147,6 @@
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
+Credit: [Cano Diego](https://github.com/D-cano2)
 
-Last Edited on: 09/11/2022
+Last Edited on: 31/05/2024
